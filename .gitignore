@@ -1,2 +1,8 @@
 __pycache__/
 *.pyc
+
+# Chat transcript (uploaded at submission time, never committed)
+log.txt
+
+# Build artifacts
+code.zip
